@@ -1,0 +1,4 @@
+Pude resover sin problema hasta la clase airline
+la clase airport solo tiene schedule flight y print allflights
+no tiene errores de compilacion 
+y el main manda llamar algunas  fuciones sencillas
